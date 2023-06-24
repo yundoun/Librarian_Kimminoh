@@ -81,3 +81,6 @@
 ![image](https://github.com/yundoun/Librarian_Kimminoh/assets/106233376/fc80b0ad-b1dc-4548-8eba-9953f762dc6e)
 
 
+## 결과 보고서
+https://drive.google.com/file/d/1lZiGAP1_t8BS28bGOkZdCflCeH24NArk/view?usp=sharing
+
